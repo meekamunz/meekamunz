@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meekamunz
-- 👀 I’m interested in broadcast, DJing, gaming, beer
-- 🌱 I’m currently learning to be a Product Owner
+- 👀 I’m interested in broadcast & DJing
 - 📫 meekamunz@gmail.com
 
 <!---
