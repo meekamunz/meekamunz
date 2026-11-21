@@ -15,9 +15,13 @@ I'm not here to collect programming languages. I'm here to build useful things, 
 
 A companion for Traktor DJs, exploring music discovery and the connections between tracks. Built around the idea that finding the next track should be an exploration, not just a search.
 
-### 💷 Pocket Fund
+### 🤖 Pocket Fund
 
-A personal finance project exploring ways to make money management more useful, accessible and perhaps a little less tedious.
+**An experiment in putting AI to work.**
+
+Taking an otherwise unused stack of cryptocurrency and exploring what AI can do with it. From analysis and decision-making to automation and potentially autonomous agents.
+
+I'm not a finance or crypto expert. That's rather the point. I'm interested in discovering how far AI can take an idea when you give it a real-world problem to work on.
 
 ## 🧠 Things that occupy my brain
 
