@@ -1,30 +1,40 @@
-# Hi, I'm Mike 👋
+# Hello, I'm Mike 👋
 
-I'm a product owner working at the intersection of **software, broadcast technology and orchestration**.
+**Product Developer · Senior Orchestration Product Owner · Curious by default**
 
-I enjoy understanding complex systems, solving problems and turning ideas into things that actually work. Increasingly, that means getting hands-on with software development, automation and AI-assisted coding.
+I spend my working life thinking about how complex systems fit together, how products should work, and how to make things a little less complicated.
 
-## 🔧 What I'm interested in
+Outside of that, I have a habit of turning interesting ideas into actual software. I'm particularly interested in the intersection of product thinking, automation and AI-assisted development.
 
-- **Software & automation** – building useful tools and experimenting with new ideas.
-- **AI & agentic workflows** – exploring how AI can make software development and everyday tasks more effective.
-- **Broadcast technology** – orchestration, media workflows and the systems that make modern broadcasting work.
-- **Electronic music** – DJing, discovering music and exploring the connections between sounds and genres.
+I'm not here to collect programming languages. I'm here to build useful things, solve interesting problems and occasionally find out whether a slightly ridiculous idea might actually work.
 
-## 🚀 Things I'm building
+## 🛠️ Currently building
 
-### Flux
-*Discover where the music can go.*
+### 🎧 Flux
+**Discover where the music can go.**
 
-A personal project exploring music discovery and journey mapping for DJs, with a focus on Traktor integration.
+A companion for Traktor DJs, exploring music discovery and the connections between tracks. Built around the idea that finding the next track should be an exploration, not just a search.
 
-### More experiments
-A collection of personal projects, prototypes and experiments. Some solve actual problems, others exist simply because I was curious whether I could build them.
+### 💷 Pocket Fund
 
-## 🎧 Outside the terminal
+A personal finance project exploring ways to make money management more useful, accessible and perhaps a little less tedious.
 
-Usually listening to progressive house, trance, liquid drum & bass or techno. Also partial to cycling, swimming and the occasional gaming session.
+## 🧠 Things that occupy my brain
+
+- **Product development** – turning ideas, problems and opportunities into working products.
+- **Orchestration & broadcast** – complex workflows, distributed systems and making the moving parts play nicely together.
+- **AI & automation** – experimenting with AI-assisted development, agents and finding better ways to get things done.
+- **Software** – building practical tools, learning by doing and occasionally debugging something I probably broke myself.
+
+## 🎛️ Away from the keyboard
+
+You'll probably find me:
+
+- Mixing progressive house, trance, techno or liquid drum & bass.
+- Out on a road or gravel bike.
+- In a swimming pool.
+- Playing something on PC that involves either managing a city, liberating a planet or driving too quickly.
 
 ---
 
-*Curiosity-driven development. Practical problem solving. Always something new to learn.*
+*Build things. Break things. Learn things. Repeat.*
